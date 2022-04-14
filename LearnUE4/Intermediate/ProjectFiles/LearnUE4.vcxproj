@@ -51,7 +51,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{5268B8B7-6ACC-4F7A-97A8-11E644982914}</ProjectGuid>
+    <ProjectGuid>{79AC3613-54E1-42C3-9DCA-98A66AA68EA5}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>LearnUE4</RootNamespace>
     <PlatformToolset>v143</PlatformToolset>
