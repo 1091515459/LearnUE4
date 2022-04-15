@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\LearnUE4.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{1178537D-29A8-4CDF-8869-034A8CDC2A7D}</UniqueIdentifier>
+      <UniqueIdentifier>{E86917AA-8506-4390-80D9-678A26831191}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\LearnUE4.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\LearnUE4Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\LearnUE4.zip" />
     <Filter Include="Config">
-      <UniqueIdentifier>{1F4D547A-5131-404F-8544-F75EC14598FE}</UniqueIdentifier>
+      <UniqueIdentifier>{C834BDB9-5E85-4BD8-8AA7-0B2C247896ED}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\LearnUE4">
-      <UniqueIdentifier>{FFAF1A34-B99D-48BD-A1BB-2541618615E4}</UniqueIdentifier>
+      <UniqueIdentifier>{5C6EC3A7-3956-49B0-8E2D-FFFA1F81C0C3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\LearnUE4\LearnUE4.Build.cs">
       <Filter>Source\LearnUE4</Filter>
@@ -52,6 +53,30 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\LearnUE4\LearnUE4GameMode.h">
       <Filter>Source\LearnUE4</Filter>
+    </ClInclude>
+    <Filter Include="Source\LearnUE4\FP_FirstPerson">
+      <UniqueIdentifier>{DC594B7F-EF6F-412B-9327-11FD8CD489EE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\LearnUE4\FP_FirstPerson\FP_FirstPerson.h">
+      <Filter>Source\LearnUE4\FP_FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearnUE4\FP_FirstPerson\FP_FirstPersonCharacter.cpp">
+      <Filter>Source\LearnUE4\FP_FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearnUE4\FP_FirstPerson\FP_FirstPersonCharacter.h">
+      <Filter>Source\LearnUE4\FP_FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearnUE4\FP_FirstPerson\FP_FirstPersonGameMode.cpp">
+      <Filter>Source\LearnUE4\FP_FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearnUE4\FP_FirstPerson\FP_FirstPersonGameMode.h">
+      <Filter>Source\LearnUE4\FP_FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearnUE4\FP_FirstPerson\FP_FirstPersonHUD.cpp">
+      <Filter>Source\LearnUE4\FP_FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearnUE4\FP_FirstPerson\FP_FirstPersonHUD.h">
+      <Filter>Source\LearnUE4\FP_FirstPerson</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

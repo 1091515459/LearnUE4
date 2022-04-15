@@ -28,6 +28,14 @@
 			"Type": "Executable"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Markeplace/ElectronicNodes/Binaries/Win64/UE4Editor-ElectronicNodes.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Markeplace/ElectronicNodes/Binaries/Win64/UE4Editor-ElectronicNodes.pdb",
+			"Type": "SymbolFile"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -2416,6 +2424,10 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Markeplace/ElectronicNodes/Binaries/Win64/UE4Editor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
@@ -2903,6 +2915,10 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/LearnUE4.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Markeplace/ElectronicNodes/ElectronicNodes.uplugin",
 			"Type": "UFS"
 		},
 		{
