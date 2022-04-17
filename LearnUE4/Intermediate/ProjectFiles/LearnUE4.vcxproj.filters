@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\LearnUE4.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E86917AA-8506-4390-80D9-678A26831191}</UniqueIdentifier>
+      <UniqueIdentifier>{0FA4C788-35BE-4339-B630-9FE2328377D0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\LearnUE4.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\LearnUE4.zip" />
     <Filter Include="Config">
-      <UniqueIdentifier>{C834BDB9-5E85-4BD8-8AA7-0B2C247896ED}</UniqueIdentifier>
+      <UniqueIdentifier>{254BE3CD-453D-42DA-A793-F488D80F0511}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -31,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\LearnUE4">
-      <UniqueIdentifier>{5C6EC3A7-3956-49B0-8E2D-FFFA1F81C0C3}</UniqueIdentifier>
+      <UniqueIdentifier>{70F5923A-5BE5-4FF5-8814-ED99665D14A9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\LearnUE4\LearnUE4.Build.cs">
       <Filter>Source\LearnUE4</Filter>
@@ -55,7 +55,7 @@
       <Filter>Source\LearnUE4</Filter>
     </ClInclude>
     <Filter Include="Source\LearnUE4\FP_FirstPerson">
-      <UniqueIdentifier>{DC594B7F-EF6F-412B-9327-11FD8CD489EE}</UniqueIdentifier>
+      <UniqueIdentifier>{782D714C-02DC-4654-9119-032D49971940}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\LearnUE4\FP_FirstPerson\FP_FirstPerson.h">
       <Filter>Source\LearnUE4\FP_FirstPerson</Filter>
