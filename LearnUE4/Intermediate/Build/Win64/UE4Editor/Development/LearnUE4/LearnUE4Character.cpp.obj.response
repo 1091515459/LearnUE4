@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I D:\Users\home\LearnUE4\LearnUE4\Intermediate\Build\Win64\UE4Editor\Inc\LearnUE4
-/I D:\Users\home\LearnUE4\LearnUE4\Source
+/I D:\user\homework\UE\LearnUE4\LearnUE4\Intermediate\Build\Win64\UE4Editor\Inc\LearnUE4
+/I D:\user\homework\UE\LearnUE4\LearnUE4\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -262,16 +262,16 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\Users\home\LearnUE4\LearnUE4\Intermediate\Build\Win64\LearnUE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\Users\home\LearnUE4\LearnUE4\Intermediate\Build\Win64\LearnUE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Users\home\LearnUE4\LearnUE4\Intermediate\Build\Win64\LearnUE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Users\home\LearnUE4\LearnUE4\Source\LearnUE4\LearnUE4Character.cpp"
-/FI"D:\Users\home\LearnUE4\LearnUE4\Intermediate\Build\Win64\UE4Editor\Development\LearnUE4\Definitions.LearnUE4.h"
-/Fo"D:\Users\home\LearnUE4\LearnUE4\Intermediate\Build\Win64\UE4Editor\Development\LearnUE4\LearnUE4Character.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"D:\user\homework\UE\LearnUE4\LearnUE4\Intermediate\Build\Win64\LearnUE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\user\homework\UE\LearnUE4\LearnUE4\Intermediate\Build\Win64\LearnUE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\user\homework\UE\LearnUE4\LearnUE4\Intermediate\Build\Win64\LearnUE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\user\homework\UE\LearnUE4\LearnUE4\Source\LearnUE4\LearnUE4Character.cpp"
+/FI"D:\user\homework\UE\LearnUE4\LearnUE4\Intermediate\Build\Win64\UE4Editor\Development\LearnUE4\Definitions.LearnUE4.h"
+/Fo"D:\user\homework\UE\LearnUE4\LearnUE4\Intermediate\Build\Win64\UE4Editor\Development\LearnUE4\LearnUE4Character.cpp.obj"
 /TP
 /GR-
 /W4

@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"D:\\Users\\home\\LearnUE4\\LearnUE4\\Source\\LearnUE4\\LearnUE4.Build.cs",
-		"D:\\Users\\home\\LearnUE4\\LearnUE4\\Plugins\\glTFRuntime\\Source\\glTFRuntimeEditor\\glTFRuntimeEditor.Build.cs",
-		"D:\\Users\\home\\LearnUE4\\LearnUE4\\Plugins\\glTFRuntime\\Source\\glTFRuntime\\glTFRuntime.Build.cs",
-		"D:\\Users\\home\\LearnUE4\\LearnUE4\\Source\\LearnUE4.Target.cs",
-		"D:\\Users\\home\\LearnUE4\\LearnUE4\\Source\\LearnUE4Editor.Target.cs"
+		"D:\\user\\homework\\UE\\LearnUE4\\LearnUE4\\Source\\LearnUE4\\LearnUE4.Build.cs",
+		"D:\\user\\homework\\UE\\LearnUE4\\LearnUE4\\Plugins\\glTFRuntime\\Source\\glTFRuntime\\glTFRuntime.Build.cs",
+		"D:\\user\\homework\\UE\\LearnUE4\\LearnUE4\\Plugins\\glTFRuntime\\Source\\glTFRuntimeEditor\\glTFRuntimeEditor.Build.cs",
+		"D:\\user\\homework\\UE\\LearnUE4\\LearnUE4\\Source\\LearnUE4.Target.cs",
+		"D:\\user\\homework\\UE\\LearnUE4\\LearnUE4\\Source\\LearnUE4Editor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
