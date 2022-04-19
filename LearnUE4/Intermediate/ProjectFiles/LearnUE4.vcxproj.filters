@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\LearnUE4.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{0FA4C788-35BE-4339-B630-9FE2328377D0}</UniqueIdentifier>
+      <UniqueIdentifier>{10C41820-7A44-4883-9E38-C15A2CDCA53C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\LearnUE4.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\LearnUE4.zip" />
     <Filter Include="Config">
-      <UniqueIdentifier>{254BE3CD-453D-42DA-A793-F488D80F0511}</UniqueIdentifier>
+      <UniqueIdentifier>{F078D09A-A766-4877-B88B-648258AD504C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,9 +30,156 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
-    <Filter Include="Source\LearnUE4">
-      <UniqueIdentifier>{70F5923A-5BE5-4FF5-8814-ED99665D14A9}</UniqueIdentifier>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{6EE26AC9-2DC0-4947-BAA8-86A2F47D2CF5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Plugins\glTFRuntime">
+      <UniqueIdentifier>{7B43A1FB-6400-46AA-A572-C109FE5A05BA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\glTFRuntime\Source">
+      <UniqueIdentifier>{3917C241-0FAA-42E1-B295-594B59F1D6CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\glTFRuntime\Source\glTFRuntime">
+      <UniqueIdentifier>{369BE90E-5CDD-45F4-96AB-2E4367195982}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\glTFRuntime.Build.cs">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime</Filter>
+    </None>
+    <Filter Include="Plugins\glTFRuntime\Source\glTFRuntime\Private">
+      <UniqueIdentifier>{C06CA112-2A73-43B5-9C5B-DD549A20EB9C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFAnimBoneCompressionCodec.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntime.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeAnimationCurve.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeAsset.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeAssetActor.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeAssetActorAsync.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeFunctionLibrary.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeImageLoader.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeParser.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeParserAudio.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeParserCustom.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeParserMaterials.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeParserSkeletalMeshes.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeParserStaticMeshes.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeSoundWave.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\glTFRuntime\Source\glTFRuntime\Public">
+      <UniqueIdentifier>{28FD1B95-D24B-4549-84FD-A2B6990068B0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Public\glTFAnimBoneCompressionCodec.h">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Public\glTFRuntime.h">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Public\glTFRuntimeAnimationCurve.h">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Public\glTFRuntimeAsset.h">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Public\glTFRuntimeAssetActor.h">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Public\glTFRuntimeAssetActorAsync.h">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Public\glTFRuntimeFunctionLibrary.h">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Public\glTFRuntimeImageLoader.h">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Public\glTFRuntimeParser.h">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\glTFRuntime\Source\glTFRuntime\Public\glTFRuntimeSoundWave.h">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntime\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\glTFRuntime\glTFRuntime.uplugin">
+      <Filter>Plugins\glTFRuntime</Filter>
+    </None>
+    <Filter Include="Plugins\glTFRuntime\Config">
+      <UniqueIdentifier>{4E2839C5-D07E-47FD-BD1A-5CDDF7F0990D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\glTFRuntime\Config\FilterPlugin.ini">
+      <Filter>Plugins\glTFRuntime\Config</Filter>
+    </None>
+    <Filter Include="Plugins\glTFRuntime\Resources">
+      <UniqueIdentifier>{120084C9-C8C1-4AF0-892E-9724AA5EB50E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\glTFRuntime\Resources\Icon128.png">
+      <Filter>Plugins\glTFRuntime\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\glTFRuntime\Source\glTFRuntimeEditor">
+      <UniqueIdentifier>{5A94ECA5-5AEB-4F53-BE5B-268E6E627A85}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\glTFRuntime\Source\glTFRuntimeEditor\glTFRuntimeEditor.Build.cs">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntimeEditor</Filter>
+    </None>
+    <Filter Include="Plugins\glTFRuntime\Source\glTFRuntimeEditor\Private">
+      <UniqueIdentifier>{BF140AAE-8C57-42F6-8BE4-D8E988DAA87C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntimeEditor\Private\glTFRuntimeEditor.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntimeEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntimeEditor\Private\SkeletalMeshExporterGLTF.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntimeEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\glTFRuntime\Source\glTFRuntimeEditor\Private\SkeletonExporterGLTF.cpp">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntimeEditor\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\glTFRuntime\Source\glTFRuntimeEditor\Public">
+      <UniqueIdentifier>{6EF87DF5-B0FA-4C83-B6CE-46ED0AF181CE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\glTFRuntime\Source\glTFRuntimeEditor\Public\glTFRuntimeEditor.h">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntimeEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\glTFRuntime\Source\glTFRuntimeEditor\Public\SkeletalMeshExporterGLTF.h">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntimeEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\glTFRuntime\Source\glTFRuntimeEditor\Public\SkeletonExporterGLTF.h">
+      <Filter>Plugins\glTFRuntime\Source\glTFRuntimeEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\LearnUE4">
+      <UniqueIdentifier>{17C3A969-E1BD-4E22-A045-64F73AD87860}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LearnUE4\Cube1.cpp">
+      <Filter>Source\LearnUE4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearnUE4\Cube1.h">
+      <Filter>Source\LearnUE4</Filter>
+    </ClInclude>
     <None Include="..\..\Source\LearnUE4\LearnUE4.Build.cs">
       <Filter>Source\LearnUE4</Filter>
     </None>
@@ -55,7 +202,7 @@
       <Filter>Source\LearnUE4</Filter>
     </ClInclude>
     <Filter Include="Source\LearnUE4\FP_FirstPerson">
-      <UniqueIdentifier>{782D714C-02DC-4654-9119-032D49971940}</UniqueIdentifier>
+      <UniqueIdentifier>{E833B27E-8485-4FA7-9946-BC7B7931CDE1}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\LearnUE4\FP_FirstPerson\FP_FirstPerson.h">
       <Filter>Source\LearnUE4\FP_FirstPerson</Filter>

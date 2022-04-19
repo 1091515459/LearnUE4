@@ -1,4 +1,4 @@
-D:/user/homework/UE/LearnUE4/LearnUE4/Intermediate/Build/Win64/LearnUE4Editor/Development/Engine/SharedPCH.Engine.ShadowErrors.h
+D:/Users/home/LearnUE4/LearnUE4/Intermediate/Build/Win64/LearnUE4Editor/Development/Engine/SharedPCH.Engine.ShadowErrors.h
 D:/Program Files/Epic Games/UE_4.27/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\CoreTypes.h
@@ -24,8 +24,8 @@ C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\vadefs.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\xkeycheck.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\cstddef
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\xtr1common
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Exec.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/AssertionMacros.h
@@ -37,7 +37,7 @@ D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/Platfo
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\new
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\exception
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\yvals.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\crtdbg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\vcruntime_new_debug.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\vcruntime_new.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\crtdefs.h
@@ -47,39 +47,39 @@ C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\stdint.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\xstddef
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\cstdlib
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_math.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdlib.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_malloc.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_search.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdlib.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\limits.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\vcruntime_exception.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\eh.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\wchar.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memcpy_s.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\errno.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\vcruntime_string.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wconio.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_stdio_config.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wctype.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wdirect.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wio.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_share.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wprocess.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdio.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstring.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wtime.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/stat.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys/types.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\stdarg.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\float.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\string.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memory.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CompressionFlags.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/NumericLimits.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMisc.h
@@ -102,16 +102,16 @@ C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\mmintrin.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\zmmintrin.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\ammintrin.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\tchar.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\intsafe.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winapifamily.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winpackagefamily.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_undef.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\driverspecs.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdv_driverspecs.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\strsafe.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\tchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\intsafe.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winpackagefamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\strsafe.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CpuProfilerTrace.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/Trace.h
@@ -190,8 +190,8 @@ D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/TypeHash.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Crc.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Char.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\ctype.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\wctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wctype.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CString.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformString.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformString.h
@@ -608,7 +608,7 @@ C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\xthreads.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\xtimec.h
 C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31302\INCLUDE\ctime
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/InvalidateWidgetReason.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateDebugging.generated.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Trace/SlateTrace.h
